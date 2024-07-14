@@ -10,7 +10,7 @@ Este README fornece instruções para configurar o ambiente no Google Colab e Ju
 
 ### 2. Baixando o arquivo `dfbruto.csv`
 
-1. **Faça o download do arquivo:** Clique no seguinte link para baixar o arquivo `dfbruto.csv`: [https://github.com/henriquecm02/Desafio-Ciencia-de-Dados-Lighthouse/blob/main/dfbruto.csv](https://github.com/henriquecm02/Desafio-Ciencia-de-Dados-Lighthouse/blob/main/dfbruto.csv)
+1. **Faça o download do arquivo:** Clique no seguinte link para baixar o arquivo `dfbruto.csv`: [https://github.com/henriquecm02/Desafio-Ciencia-de-Dados-Lighthouse/blob/main/dfbruto.csv](https://github.com/henriquecm02/LH_CD_HENRIQUE_COUTO_MACHADO/blob/main/dfbruto.csv)
    
 2. **Salve o arquivo:** Salve o arquivo baixado  em um local acessível no seu computador.
 
